@@ -1,6 +1,11 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
+# bt、pt
+# qbittorrent部署在16666端口
+SRC-PORT,16666
+# qbittorrent部署对外部署在51713端口
+SRC-PORT,51713
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
