@@ -6,6 +6,8 @@
 SRC-PORT,16666
 # qbittorrent部署对外部署在51713端口
 SRC-PORT,51713
+# m-team.cc 馒头pt
+DOMAIN-SUFFIX,m-team.cc
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
