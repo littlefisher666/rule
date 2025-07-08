@@ -4,6 +4,16 @@
 DOMAIN-SUFFIX,suda.moe
 DOMAIN-SUFFIX,openzlib.link
 
+# 使用CF的pt站点
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,rousi.zip
+DOMAIN-SUFFIX,ptcafe.club
+DOMAIN-SUFFIX,sunnypt.top
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,raingfh.top
+DOMAIN-SUFFIX,hdtime.org
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
